@@ -20,29 +20,19 @@ matching "character" at the end seemed like a fun project while also being usefu
 results as a typical MBTI. Thus, I was inspired to create this project for the sake of my own a-MEW-sement.
 Pokemon has always been one of my favorite games and the types within the game made it a fitting comparison for this
 project. Unfortunately as there are only 3 starter Pokemon per generation I had to include a 4th to ensure I got all
-16 possible Myers-Briggs types (I choose electric because Pikachu was a must have for a possible type :D)
+16 possible Myers-Briggs types (I choose electric because Pikachu was a must have)
 
 ##User Stories
-- As a user, I want to maintain an account with a name, region, and balances for each of my currencies
-- As a user, I want to purchase a champion with both types of currency
-- As a user, I want to track my progress towards purchasing a desired champion using both types of currency
-- As a user, I want to be able to visualize all of my account details on screen in a account summary
-- As a user, I want to receive champion recommendations based on a desired champion difficulty
-- As a user, I want to be able to favourite champions and add them to a collection dubbed *Favourites*
-- As a user, I want to be able to save my accounts
-- As a user, I want to be able to load my accounts
+- As a user, I want to be able to find out my MBTI type
+- As a user, I want to track my current indices for the MBTI criterion
+- As a user, I want to view all the different MBTI types
+- As a user, I want to find out which Pokemon aligns with my MBTI type
 
 ##Instructions
-- Fullscreen the window on start-up to see all buttons
 - There is a background image and start-up sound when you run the application
-- Each button when clicked will display the options with an icon that is related to the function of that option
-- Earning either currency can be done by inputting the account that earned/purchased the currency along with the amount earned/spent
-- Purchasing a champion with either type of currency can be done by inputting the account that you wish to purchase it for along with the name of the champion
-- Purchasing any champion will play an audio component of their catchphrase when you select them in game
-- Checking if a champion is purchasable with either type of currency either type of currency can be done by inputting the account that you wish to purchase it for along with the name of the champion
-- Receiving a recommendation can be done by inputting a difficulty level of champions you wish to be recommended
-- Favouriting a champion can be done by inputting the account that you wish to favourite it for along with the name of the champion
-- You can view all your account details (balances, champions owned/recommended/favourited) by printing out the details for a select account
-- The save button saves all account details to file
-- Likewise the load button loads all account details from the file
+- Taking the test will load a statement on the screen with a textfield beneath to fill "Agree" or "Disagree" based on your opinion on the statement
+- Based on whether or not you agree/disagree with a statement your indices (E/I, S/N, T/F, J,P) will increase or remain the same
+- After completing all 12 questions you can view your indices to see how favorably you lean towards each index (0-3)
+- You can then calculate your MBTI type which will display your MBTI type on a screen popup
+- After finding out your MBTI type you can check out which Pokemon you align with as well as explore the other MBTI types in "View Personalities"
 
